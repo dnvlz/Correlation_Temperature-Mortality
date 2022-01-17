@@ -1,6 +1,6 @@
 # Correlation_Temperature-Mortality
 
-Correlation between mean temperature and mortality for the year 2006 in Mexico City
+Correlation between mean temperature and mortality for the year 2006 in Mexico City.
 
 * Region and domain category: Mexico City, Mexico and weather phenomena
 * Question: Was there a correlation between mean temperature and number of deaths in Mexico City on 2006?
