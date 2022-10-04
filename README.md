@@ -21,7 +21,7 @@ Correlación entre temperatura media y mortalidad para el año 2006 en la Ciudad
 * Pregunta: ¿Hubo una correlación entre la temperatura media y el número de muertes en la Ciudad de México en el año 2006?
 * Datos:
   1. Centro de Investigación Científica y de Estudios Superiores de Ensenada ([CICESE](http://clicom-mex.cicese.mx/))
-  2. Instituto Nacional de Estadística y Geografía ([INEGI](https://www.inegi.org.mx/programas/mortality/#Microdatos))
+  2. Instituto Nacional de Estadística y Geografía ([INEGI](https://www.inegi.org.mx/programas/mortalidad/#Microdatos)
   3. [Archivos CSV y DBF retocados](https://drive.google.com/drive/folders/1zKCjSoLF6XIB8DNkU5aHYZayseJXv8dA?usp=sharing)
   
 El gráfico aborda mi pregunta de investigación al mostrar el número de muertes y la temperatura media en grados Celsius a lo largo del año 2006. También incluye el coeficiente de Pearson (corr) y el valor p.
