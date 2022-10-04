@@ -24,7 +24,7 @@ Correlación entre temperatura media y mortalidad para el año 2006 en la Ciudad
   2. Instituto Nacional de Estadística y Geografía ([INEGI](https://www.inegi.org.mx/programas/mortalidad/#Microdatos))
   3. [Archivos CSV y DBF retocados](https://drive.google.com/drive/folders/1zKCjSoLF6XIB8DNkU5aHYZayseJXv8dA?usp=sharing)
   
-El gráfico aborda mi pregunta de investigación al mostrar el número de muertes y la temperatura media en grados Celsius a lo largo del año 2006. También incluye el coeficiente de Pearson (corr) y el valor p.
+El gráfico aborda mi pregunta de investigación al mostrar e índice de mortalidad y la temperatura media en grados Celsius a lo largo del año 2006. También incluye el coeficiente de Pearson (corr) y el valor p.
 Realicé un suavizado de Fourier (manteniendo el 10% de las frecuencias más relevantes) en ambos conjuntos de datos para producir un gráfico más claro, pero mantuve los gráficos sin filtrar para mostrar los datos originales.
 
 Conclusión: hubo una relación inversa entre temperatura y mortalidad en la Ciudad de México durante 2006. Las curvas suavizadas de Fourier muestran con claridad esta relación.
